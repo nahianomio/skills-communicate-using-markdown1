@@ -6,3 +6,6 @@
 ###### I did this with H6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "My second github lesson!";
