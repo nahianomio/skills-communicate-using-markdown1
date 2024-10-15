@@ -4,3 +4,5 @@
 #### I did this with H4
 ##### I did this with H5
 ###### I did this with H6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
